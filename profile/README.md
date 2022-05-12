@@ -1,4 +1,4 @@
-## Hi there 👋
+## Abdullah Gül University 👋
 
 <!--
 
