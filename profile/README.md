@@ -1,4 +1,4 @@
-## Abdullah Gül Üniversitesi, 3. Nesi Üniversite 👋
+## Abdullah Gül Üniversitesi, 3. Nesil Üniversite 👋
 ## Abdullah Gül Üniversity, 3rd Generation University 👋
 <!--
 
