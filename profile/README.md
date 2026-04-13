@@ -1,7 +1,7 @@
 # AGU Open Source 🎓
 
 
-### 🚀 Yeni Nesil Devlet Üniversiteesi
+### 🚀 Yeni Nesil Devlet Üniversitesi
 AGÜ olarak açık kaynak kültürünü destekliyor ve projelerimizi dünya ile paylaşıyoruz.
 
 ---
