@@ -1,5 +1,5 @@
-## Abdullah Gül Üniversitesi, 3. Nesil Üniversite 👋
-## Abdullah Gül Üniversity, 3rd Generation University 👋
+## Abdullah Gül Üniversitesi, Yeni Nesil Devlet Üniversitesi 👋
+## Abdullah Gül Üniversity, New Generation University 👋
 <!--
 
 **Here are some ideas to get you started:**
